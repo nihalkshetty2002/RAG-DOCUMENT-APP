@@ -1,0 +1,13 @@
+streamlit 
+langchain
+langchain_community
+langchain_core
+python-dotenv
+langchain-openai
+unstructured[pdf]
+onnx==1.16.1
+sentence-transformers
+chromadb
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
